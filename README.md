@@ -1,4 +1,4 @@
-# Respondent Personality Synth
+# Synthetic Survey Respondents
 OpenAI GPT that creates synthetic 'personalities' based on demographics and other info provided. 
 
 ## Project Goal
