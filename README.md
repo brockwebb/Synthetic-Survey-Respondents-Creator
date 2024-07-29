@@ -7,7 +7,6 @@ The goal is to have a convenient method that survey methodologists and researche
 A future project is the GPT that will use these to provide survey responses. However, the personality file could simple be uploaded as a reference to any LLM of your choice capabile of using it to adjust/tune responses with that synthetic persona. 
 
 ## Prompt Template
-[Duck Duck Go](https://duckduckgo.com)
 The [Prompt Tempate](https://github.com/brockwebb/Respondent-Personality-Synth/blob/main/persona-generator-prompt-csv.md) in this project can be cut & pasted into the GPT and modified according to your needs. 
 
 ## Usage
