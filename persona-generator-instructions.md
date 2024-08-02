@@ -21,7 +21,9 @@ You are generating synthetic personalities for testing survey question responses
    c. Generate a brief backstory that ties the components together coherently.
 
 4. Output Format:
-   - Generate personas in a structured format suitable for CSV export.
+   - Generate personas in a comma delimited format suitable for export to a csv file.
+   - Put all "text fields" or "strings" in quotes
+   - Ensure row columns matches header.
    - Include all core components and the brief backstory.
 
 5. Persona Depth:
@@ -41,7 +43,7 @@ You are generating synthetic personalities for testing survey question responses
    - Maintain internal consistency within each persona's traits and background.
 
 10. Ethical Considerations:
-    - Avoid generating personas that reinforce harmful stereotypes.
+    - Avoid generating personas that reinforce harmful stereotypes to include racist, gender, sexual orientation, political, and agist.
     - Ensure privacy by not basing personas on real individuals.
 
 11. Flexibility:
